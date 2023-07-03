@@ -1,0 +1,28 @@
+* {
+    margin: 0;
+    padding: 0;
+
+}
+
+.navbar {
+    border: 1px solid red;
+    background: yellow;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    height: 60px;
+    padding-left: 10px;
+}
+
+
+.unorder {
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+
+}
+
+a {
+    text-decoration: none;
+    margin-right: 20px;
+}
